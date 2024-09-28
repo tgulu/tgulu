@@ -8,7 +8,7 @@ A front-end and Android developer with a passion for building engaging digital e
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=c,c++)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,kotlin)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ---
 
