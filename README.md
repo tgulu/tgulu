@@ -20,7 +20,7 @@ A software developer with front-end, back-end, mobile development experience, an
 </div>
 
 <div id="badges">
-   <a href="https://www.thabo-gulu-portfolio.com/">
+   <a href="https://websiteby.thabogulu.com/">
     <img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
