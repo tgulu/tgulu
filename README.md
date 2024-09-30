@@ -2,7 +2,7 @@
 
 🖥️
 
-A front-end and Android developer with a passion for building engaging digital experiences. I specialise in creating seamless, responsive web applications using efficient, clean code and developing Android apps with Kotlin. I bring ideas to life by combining creativity with technical expertise. Explore my repository to see my projects, and feel free to reach out for collaboration or feedback. Let's create something extraordinary together!
+A software developer with front-end, back-end, mobile development experience, and a passion for building engaging digital experiences. I specialise in creating seamless, responsive web applications using efficient, clean code, primarily with JavaScript, and developing Android apps with Kotlin. I bring ideas to life by combining creativity with technical expertise. Explore my repository to see my projects, and feel free to reach out for collaboration or feedback. Let’s create something extraordinary together!
 
 ---
 
