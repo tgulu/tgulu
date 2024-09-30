@@ -13,6 +13,11 @@ A software developer with front-end, back-end, mobile development experience, an
 ---
 
 ## 🌐 Socials
+<div id="badges">
+  <a href="https://www.linkedin.com/in/thabo-gulu/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <div id="badges">
   <a href="https://www.thabo-gulu-portfolio.com/">
