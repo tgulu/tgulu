@@ -7,7 +7,7 @@ A software developer with front-end, back-end, mobile development experience, an
 ---
 
 ## 🛠️ Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next.js)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=express,mongodb)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=python,kotlin)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=express,mongodb)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=python,kotlin)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 
 
