@@ -8,7 +8,8 @@ A software developer with front-end, back-end, mobile development experience, an
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,kotlin)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,mongodb,nodejs,nextjs,typescript)](https://skillicons.dev)
+
 
 ---
 
