@@ -15,17 +15,18 @@ A software developer with front-end, back-end, mobile development experience, an
 ---
 
 ## 🌐 Socials
-<div id="badges">
-  <a href="https://www.linkedin.com/in/thabo-gulu/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" style="display: flex; gap: 12px;">
+  <a href="https://www.linkedin.com/in/thabo-gulu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/thabogulu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://websiteby.thabogulu.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
-<div id="badges">
-   <a href="https://websiteby.thabogulu.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-</div>
 
 
 ---
