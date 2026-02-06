@@ -2,7 +2,8 @@
 
 🖥️
 
-A software developer with front-end, back-end, mobile development experience, and a passion for building engaging digital experiences. I specialise in creating seamless, responsive web applications using efficient, clean code, primarily with JavaScript. I bring ideas to life by combining creativity with technical expertise. Explore my repository to see my projects, and feel free to reach out for collaboration or feedback. Let’s create something extraordinary together!
+Front-End skilled in building engaging digital experiences. I specialise in creating seamless, responsive web applications using efficient, clean code, primarily with React and JavaScript. I bring ideas to life by combining creativity with technical expertise. 
+Explore my repository to see my projects, and feel free to reach out for collaboration or feedback.
 
 ---
 
@@ -26,8 +27,5 @@ A software developer with front-end, back-end, mobile development experience, an
   </a>
 </div>
 
-
-
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or share feedback!
