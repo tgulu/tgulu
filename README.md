@@ -2,7 +2,7 @@
 
 🖥️
 
-Front-End skilled in building engaging digital experiences. I specialise in creating seamless, responsive web applications using efficient, clean code, primarily with React and JavaScript. I bring ideas to life by combining creativity with technical expertise. 
+Full-Stack skilled in building engaging digital experiences. I specialise in creating seamless, responsive web applications using efficient, clean code, primarily with React and JavaScript. I bring ideas to life by combining creativity with technical expertise. 
 Explore my repository to see my projects, and feel free to reach out for collaboration or feedback.
 
 ---
